@@ -24,3 +24,9 @@ class genClass {
          if (someVar < size) { ...... }
     }
  };
+ 
+Create a class template for polynomials of degree 2 (ax^2 + bx + c) . Add addition, and multiplication capability. Include a driver file, and test cases. Submit the code, and test cases. (20)
+
+if you need a refresher, here is how to multiply two polynomials: http://www.webmath.com/polymult.html
+
+4. submit a screenshot of your github directory with at least 2 branches. (5)
